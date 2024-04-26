@@ -31,4 +31,3 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-./export.pkl
